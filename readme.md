@@ -1,0 +1,1 @@
+index es un archivo para practicar html
