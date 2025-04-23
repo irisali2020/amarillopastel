@@ -1,1 +1,1 @@
-index es un archivo para practicar html
+amarillopastel es un proyecto web desarrollado con fines de aprendizaje 
